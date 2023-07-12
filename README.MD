@@ -1,8 +1,11 @@
-Static Website Example
+It's inCognito!
 ----------------------
 
-To be used with Cloud Academy labs.
+It's inCognito challenge featured in W/TF 2023.
 
+To deploy it ... # TODO
+
+This gorgeous website was not made by me, please view the license for it below.
 
 License
 ----------------------
